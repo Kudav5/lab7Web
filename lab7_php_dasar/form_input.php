@@ -13,7 +13,7 @@
         <input type="submit" value="Kirim">
     </form>
     <?php
-        echo 'Selamat Datang' . $_POST['nama'];
+        echo 'Selamat Datang ' . $_POST['nama'];
     ?>
 </body>
 </html>
