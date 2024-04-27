@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-<h1>Predefine Variable $_GET</h1>
+<h1>Predefine Variable</h1>
     <?php
         echo 'Selamat Datang di sini';
     ?>  
