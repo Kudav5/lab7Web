@@ -4,7 +4,10 @@
         "runtime": "vercel-php@0.7.1"
       }
     },
-    "routes": [
-        { "src": "/(.*)",  "dest": "/api/index.php" }
-    ]
+    "api/index.php": {
+      "runtime": "vercel-php@0.7.1"
+    },
+    "api/apa.php": {
+      "runtime": "vercel-php@0.7.1"
+    }
 }
