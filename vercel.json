@@ -3,18 +3,5 @@
     "api/*.php": {
       "runtime": "vercel-php@0.7.1"
     }
-  },
-  "api/index.php": {
-    "runtime": "vercel-php@0.7.1"
-  },
-  "api/apa.php": {
-    "runtime": "vercel-php@0.7.1"
-  },
-  
-  "version": 2,
-  "builds": [
-    { "src": "*.php", "use": "@vercel/php" }
-  ]
-  
-  
+  }
 }
